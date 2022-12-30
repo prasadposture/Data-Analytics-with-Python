@@ -7,4 +7,6 @@ It contains all the things done during online sessions. <br>
 It contains all the assignments we had to submit twice a week.<br>
 [3. Projects :](https://github.com/prasadposture/Data-Analytics-with-Python/tree/main/Projects)
 It contains all the project we did under the guidance of the mentor.
+
+### Checkout
 <br>[Certificate of Competency](https://drive.google.com/file/d/1l6aKdzuxLXTd1IvpoQirhfJGbWHhMh4Y/view?usp=share_link)
