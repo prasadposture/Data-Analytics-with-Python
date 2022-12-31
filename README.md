@@ -10,3 +10,4 @@ It contains all the project we did under the guidance of the mentor.
 
 #### Checkout :
 [Certificate of Competency](https://drive.google.com/file/d/1l6aKdzuxLXTd1IvpoQirhfJGbWHhMh4Y/view?usp=share_link)
+<br>[Letter of Recommendation](https://drive.google.com/file/d/18YbUYcCPrP2lf9ZUAsv3lC311-DlyPWn/view?usp=drivesdk)
